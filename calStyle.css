@@ -2,7 +2,7 @@
 body{
     height: 95vh;
     width: 95%;
-    border: solid 5px blue;
+    /*border: solid 5px blue;*/
 }
 div {
     border-style: solid;
